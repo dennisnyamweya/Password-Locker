@@ -11,6 +11,10 @@ An amazing application that will help us manage our passwords and even generate 
 There are no known bugs and if found contat me via email.You can also pass information to me via the issues section.
 ## Technologies Used
 * Python3.6
+## BDD
+### Business Logic
+This application allows a user to input GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.A person can also look for repositories.
+## User Interface Logic
 ## Support and contact details
 You can contact me via my email denisnyamweya813@gmail.com.Contact me if you detect any bugs and issues.
 ### License
