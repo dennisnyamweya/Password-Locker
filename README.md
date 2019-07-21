@@ -4,7 +4,7 @@
 ## Description
 An amazing application that will help us manage our passwords and even generate new passwords for us.This application allows us to login and save our passwords.It also supports search of passwords using username to find the passwords.
 ## Setup/Installation Requirements
-* git clone
+* git clone https://github.com/dennisnyamweya/Password-Locker.git
 * cd Password-Locker
 * python3.6 run.py
 ## Known Bugs
