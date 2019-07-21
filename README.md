@@ -13,7 +13,7 @@ There are no known bugs and if found contat me via email.You can also pass infor
 * Python3.6
 ## BDD
 ### Business Logic
-This application allows a user to input GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.A person can also look for repositories.
+This application allows a user to input username,password and it allows one to save data on accounts that are required urgently.
 ## User Interface Logic
 ## Support and contact details
 You can contact me via my email denisnyamweya813@gmail.com.Contact me if you detect any bugs and issues.
