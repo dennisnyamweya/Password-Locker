@@ -8,7 +8,7 @@ An amazing application that will help us manage our passwords and even generate 
 * cd Password-Locker
 * python3.6 run.py
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no known bugs and if found contat me via email.
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
