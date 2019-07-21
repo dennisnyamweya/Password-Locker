@@ -12,7 +12,7 @@ There are no known bugs and if found contat me via email.You can also pass infor
 ## Technologies Used
 * Python3.6
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+You can contact me via my email denisnyamweya813@gmail.com.Contact me if you detect any bugs and issues.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
