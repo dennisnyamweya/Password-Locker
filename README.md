@@ -1,6 +1,6 @@
 # Password locker
 #### An amazing application that will help us manage our passwords and even generate new passwords for us., 21st July 2019
-#### By **{List of contributors}**
+#### By **Dennis Makori Nyamweya **
 ## Description
 An amazing application that will help us manage our passwords and even generate new passwords for us.This application allows us to login and save our passwords.It also supports search of passwords using username to find the passwords.
 ## Setup/Installation Requirements
