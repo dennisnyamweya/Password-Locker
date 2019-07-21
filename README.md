@@ -15,6 +15,7 @@ There are no known bugs and if found contat me via email.You can also pass infor
 ### Business Logic
 This application allows a user to input username,password and it allows one to save data on accounts that are required urgently.
 ## User Interface Logic
+The user can input git username to login then enter username,firstname,lastname and password. 
 ## Support and contact details
 You can contact me via my email denisnyamweya813@gmail.com.Contact me if you detect any bugs and issues.
 ### License
