@@ -26,7 +26,7 @@ class TestUser(unittest.TestCase):
         test_save_user test case to test if the user object is saved into
          the user list
         '''
-        self.new_user.save_user() # saving the new contact
+        self.new_user.save_user() # saving the new user
         self.assertEqual(len(User.user_list),1)
 ##Test to save multiple users
     def test_save_multiple_user(self):
@@ -73,7 +73,7 @@ def test_user_exists(self):
 
 
         self.new_user.save_user()
-        test_user = User("Test","user","zera","test@user.com") # new contact
+        test_user = User("Test","user","zera","test@user.com") # new user
         test_user.save_user()
 
         user_exists = User.user_exist("zera")
